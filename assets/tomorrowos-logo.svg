@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 100" role="img" aria-label="TomorrowOS">
+  <text x="20" y="70"
+        font-family="'Inter', 'Helvetica Neue', Arial, sans-serif"
+        font-size="60" font-weight="700" letter-spacing="0.5" fill="#111111">Tomorrow<tspan fill="#FF8A3D">OS</tspan></text>
+</svg>

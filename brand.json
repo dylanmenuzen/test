@@ -1,13 +1,21 @@
 {
-  "name": "My Venue",
-  "tagline": "Digital signage",
-  "targetPlatforms": ["tizen"],
+  "name": "TomorrowOS Digital Signage - CMS build",
+  "tagline": "Digital signage management",
+  "targetPlatforms": ["tizen", "brightsign"],
   "primaryColor": "#FF8A3D",
   "secondaryColor": "#F5F3EF",
   "backgroundColor": "#FAFAF9",
   "textColor": "#0A0908",
-  "logoPath": "./assets/logo.svg",
+  "logoPath": "./assets/tomorrowos-logo.svg",
+  "logoPathOnDark": "./assets/tomorrowos-logo-white.svg",
   "fontFamily": "Inter",
+  "activationScreen": {
+    "headline": "Connect this screen",
+    "instructions": "Enter the code below in your dashboard to activate this screen.",
+    "showDeviceInfo": true,
+    "showNetworkStatus": true,
+    "theme": "light"
+  },
   "cms": {
     "useCase": "other",
     "hostingTarget": "self-hosted",

@@ -1,4 +1,4 @@
-# My CMS
+# TomorrowOS Digital Signage — CMS
 
 A content management system for digital signage, built on the
 [`@tomorrowos/sdk`](https://www.npmjs.com/package/@tomorrowos/sdk). It runs a
